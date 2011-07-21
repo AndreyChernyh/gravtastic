@@ -20,7 +20,7 @@ The best way to learn more about Gravtastic is to [look through the annotated so
 
 ## Usage
 
-For this example I'm going to assume you are using Rails. Don't worry if you arn't, the concepts are still the same.
+For this example I'm going to assume you are using Rails. Don't worry if you aren't, the concepts are still the same.
 
 First off, add this to your `Gemfile`:
 
@@ -90,7 +90,7 @@ The best way to do this is to set the `:default` option when using `#gravatr_url
   </tr>
   <tr>
     <td><b>rating</b></td>
-    <td>The lowest level of ratings you want to allow</td>
+    <td>The highest level of ratings you want to allow</td>
     <td>G</td>
     <td>G, PG, R or X</td>
   </tr>
